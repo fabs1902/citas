@@ -1,0 +1,4 @@
+https://github.com/fabs1902/cotizadorprestamos.git
+
+ID de apk en expo (project ID): 67f9368d-eba4-4010-b5d0-c14178ad96ec
+Build ID: 3b290742-01ca-4623-8862-71d6c98113b8
